@@ -31,12 +31,12 @@
 
 
 
-[1]: https://github.com/N0rtus/Patterns/Patterns/Creational/SimpleFactor
-[2]: https://github.com/N0rtus/Patterns//tree/master/Creational/FactoryMethod
-[3]: https://github.com/xSoheilAlizadeh/DesignPatterns//tree/master/Creational/AbstractFactory
-[4]: https://github.com/xSoheilAlizadeh/DesignPatterns//tree/master/Creational/Builder
-[5]: https://github.com/xSoheilAlizadeh/DesignPatterns//tree/master/Creational/Prototype
-[6]: https://github.com/xSoheilAlizadeh/DesignPatterns//tree/master/Creational/Singleton
+[1]: https://github.com/N0rtus/Patterns/tree/master/Patterns/Creational/SimpleFactor
+[2]: https://github.com/N0rtus/Patterns/tree/master/Patterns/Creational/FactoryMethod
+[3]: https://github.com/N0rtus/Patterns/tree/master/Patterns/Creational/AbstractFactory
+[4]: https://github.com/N0rtus/Patterns/tree/master/Patterns/Creational/Builder
+[5]: https://github.com/N0rtus/Patterns/tree/master/Patterns/Creational/Prototype
+[6]: https://github.com/N0rtus/Patterns/tree/master/Patterns/Creational/Singleton
 
 [7]: https://github.com/xSoheilAlizadeh/DesignPatterns/tree/master/Structural/Adapter
 [8]: https://github.com/xSoheilAlizadeh/DesignPatterns/tree/master/Structural/Bridge
