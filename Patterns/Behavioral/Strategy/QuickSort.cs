@@ -1,0 +1,14 @@
+using System;
+using System.Collections.Generic;
+
+namespace Strategy
+{
+    public class QuickSort : ISortStrategy
+    {
+        public List<int> Sort(List<int> list)
+        {
+            Console.WriteLine("Quick Sort");
+            return list;
+        }
+    }
+}
