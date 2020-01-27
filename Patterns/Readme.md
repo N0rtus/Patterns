@@ -38,20 +38,20 @@
 [5]: https://github.com/N0rtus/Patterns/tree/master/Patterns/Creational/Prototype
 [6]: https://github.com/N0rtus/Patterns/tree/master/Patterns/Creational/Singleton
 
-[7]: https://github.com/xSoheilAlizadeh/DesignPatterns/tree/master/Structural/Adapter
-[8]: https://github.com/xSoheilAlizadeh/DesignPatterns/tree/master/Structural/Bridge
-[9]: https://github.com/xSoheilAlizadeh/DesignPatterns/tree/master/Structural/Composite
-[10]:https://github.com/xSoheilAlizadeh/DesignPatterns/tree/master/Structural/Decorator
-[11]:https://github.com/xSoheilAlizadeh/DesignPatterns/tree/master/Structural/Facade
-[12]:https://github.com/xSoheilAlizadeh/DesignPatterns/tree/master/Structural/Flyweight
-[13]:https://github.com/xSoheilAlizadeh/DesignPatterns/tree/master/Structural/Proxy
+[7]: https://github.com/N0rtus/Patterns/tree/master/Patterns/Structural/Adapter
+[8]: https://github.com/N0rtus/Patterns/tree/master/Patterns/Structural/Bridge
+[9]: https://github.com/N0rtus/Patterns/tree/master/Patterns/Structural/Composite
+[10]:https://github.com/N0rtus/Patterns/tree/master/Patterns/Structural/Decorator
+[11]:https://github.com/N0rtus/Patterns/tree/master/Patterns/Structural/Facade
+[12]:https://github.com/N0rtus/Patterns/tree/master/Patterns/Structural/Flyweight
+[13]:https://github.com/N0rtus/Patterns/tree/master/Patterns/Structural/Proxy
 
 
-[14]:https://github.com/xSoheilAlizadeh/DesignPatterns/tree/master/Behavioral/Command
-[15]:https://github.com/xSoheilAlizadeh/DesignPatterns/tree/master/Behavioral/Iterator
-[16]:https://github.com/xSoheilAlizadeh/DesignPatterns/tree/master/Behavioral/Mediator
-[17]:https://github.com/xSoheilAlizadeh/DesignPatterns/tree/master/Behavioral/Memento
-[18]:https://github.com/xSoheilAlizadeh/DesignPatterns/tree/master/Behavioral/Observer
+[14]:https://github.com/N0rtus/Patterns/tree/master/Patterns/Behavioral/Command
+[15]:https://github.com/N0rtus/Patterns/tree/master/Patterns/Behavioral/Iterator
+[16]:https://github.com/N0rtus/Patterns/tree/master/Patterns/Behavioral/Mediator
+[17]:https://github.com/N0rtus/Patterns/tree/master/Patterns/Behavioral/Memento
+[18]:https://github.com/N0rtus/Patterns/tree/master/Patterns/Behavioral/Observer
 
 
 
