@@ -31,8 +31,8 @@
 
 
 
-
-[1]: https://github.com/xSoheilAlizadeh/DesignPatterns//tree/master/Creational/SimpleFactor
+https://github.com/N0rtus/Patterns.git
+[1]: https://github.com/N0rtus/Patterns/Creational/SimpleFactor
 [2]: https://github.com/xSoheilAlizadeh/DesignPatterns//tree/master/Creational/FactoryMethod
 [3]: https://github.com/xSoheilAlizadeh/DesignPatterns//tree/master/Creational/AbstractFactory
 [4]: https://github.com/xSoheilAlizadeh/DesignPatterns//tree/master/Creational/Builder
